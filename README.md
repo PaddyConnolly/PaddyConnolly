@@ -4,7 +4,7 @@ CS grad working in fintech implementation. Building side projects to explore new
 ## 🛠 Tech
 **Code**
 
-[![Code](https://skillicons.dev/icons?i=python,cpp,lua,bash,html,css)](https://skillicons.dev)
+[![Code](https://skillicons.dev/icons?i=python,cpp,html,css,lua,bash)](https://skillicons.dev)
 
 **Tools**
 

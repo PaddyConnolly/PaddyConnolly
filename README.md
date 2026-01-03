@@ -1,25 +1,15 @@
 # 👋 About
-CS grad working in fintech implementation. Building side projects to explore new tools and technologies.
+CS graduate working in fintech implementation. Building end-to-end projects exploring real-world design challenges in systems, infrastructure, and backend services.
 
 ## 🛠 Tech
-**Code**
+**Languages**
 
-[![Code](https://skillicons.dev/icons?i=python,cpp,html,css,lua,bash)](https://skillicons.dev)
+[![Code](https://skillicons.dev/icons?i=python,cpp,typescript,rust,go)](https://skillicons.dev)
 
-**Tools**
+**Backend**
 
-[![Tools](https://skillicons.dev/icons?i=linux,github,git,postgres,docker,fastapi,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgres,fastapi,postman)](https://skillicons.dev)
 
-## 📚 Learning Queue
+**Systems and Infrastructure**
 
-**Code**
-
-[![Code](https://skillicons.dev/icons?i=rust,typescript,go)](https://skillicons.dev)
-
-**Tools**
-
-[![Tools](https://skillicons.dev/icons?i=aws,react)](https://skillicons.dev)
-
-## 📌 Projects
-
-👇 See pinned below
+[![Tools](https://skillicons.dev/icons?i=linux,github,git,docker)](https://skillicons.dev)

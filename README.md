@@ -1,5 +1,5 @@
 ## 👋 About
-CS graduate working in fintech implementation. Building end-to-end projects exploring real-world design challenges in systems, infrastructure, and backend services.
+Computer Science graduate working in fintech implementation. Building end-to-end projects exploring real-world design challenges in systems, infrastructure, and backend services.
 
 ## 🛠 Tech
 **Languages**
@@ -16,7 +16,7 @@ CS graduate working in fintech implementation. Building end-to-end projects expl
 
 ## 💡 Project Spotlight
 
-**💼 Page Vault — Job Tracking Web App**
+**Page Vault: Job Tracking Web App**
 
 - Full-stack system built to explore real-world backend and systems design  
 - React frontend with FastAPI backend  

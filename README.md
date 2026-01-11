@@ -4,7 +4,7 @@ Computer Science graduate working in fintech implementation. Building end-to-end
 ## 🛠 Tech
 **Languages**
 
-[![Code](https://skillicons.dev/icons?i=python,cpp,typescript,rust,go)](https://skillicons.dev)
+[![Code](https://skillicons.dev/icons?i=python,cpp,typescript,rust)](https://skillicons.dev)
 
 **Backend**
 

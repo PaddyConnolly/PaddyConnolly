@@ -13,13 +13,3 @@ Computer Science graduate working in fintech implementation. Building end-to-end
 **Systems and Infrastructure**
 
 [![Tools](https://skillicons.dev/icons?i=linux,github,git,docker)](https://skillicons.dev)
-
-## 💡 Project Spotlight
-
-**Page Vault: Job Tracking Web App**
-
-- Full-stack system built to explore real-world backend and systems design  
-- React frontend with FastAPI backend  
-- Custom TypeScript Firefox extension for job capture  
-- HTTP client + server written in pure Rust standard library  
-- JWT-based authentication implemented from first principles  

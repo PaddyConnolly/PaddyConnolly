@@ -1,14 +1,16 @@
 ## 👋 About
 Computer Science graduate working in fintech implementation. Building end-to-end projects exploring real-world design challenges in systems, infrastructure, and backend services.
 
+Currently focused on Rust, low-latency systems, and competitive programming.
+
 ## 🛠 Tech
 **Languages**
 
-[![Code](https://skillicons.dev/icons?i=python,cpp,typescript,rust)](https://skillicons.dev)
+[![Code](https://skillicons.dev/icons?i=python,rust,cpp)](https://skillicons.dev)
 
 **Backend**
 
-[![Tools](https://skillicons.dev/icons?i=postgres,fastapi,postman)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgres,fastapi,redis)](https://skillicons.dev)
 
 **Systems and Infrastructure**
 

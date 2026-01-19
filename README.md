@@ -6,11 +6,11 @@ Currently focused on Rust, low-latency systems, and competitive programming.
 ## 🛠 Tech
 **Languages**
 
-[![Code](https://skillicons.dev/icons?i=python,rust,cpp)](https://skillicons.dev)
+[![Code](https://skillicons.dev/icons?i=rust,python,cpp)](https://skillicons.dev)
 
 **Backend**
 
-[![Tools](https://skillicons.dev/icons?i=postgres,fastapi,redis)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgres,redis,fastapi)](https://skillicons.dev)
 
 **Systems and Infrastructure**
 
